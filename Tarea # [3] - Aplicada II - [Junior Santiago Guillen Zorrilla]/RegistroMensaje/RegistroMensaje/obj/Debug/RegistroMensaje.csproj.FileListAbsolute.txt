@@ -1,0 +1,10 @@
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\RegistroMensaje.dll.config
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\RegistroMensaje.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\RegistroMensaje.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\BLL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\DAL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\BLL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\bin\DAL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\obj\Debug\RegistroMensaje.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\obj\Debug\RegistroMensaje.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [3] - Aplicada II - [Junior Santiago Guillen Zorrilla]\RegistroMensaje\RegistroMensaje\obj\Debug\RegistroMensaje.pdb
